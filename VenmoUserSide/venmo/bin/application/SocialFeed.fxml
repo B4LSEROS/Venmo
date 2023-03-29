@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.UiController">
+	<HBox fx:id= "SocialFeedBox" prefHeight="110.0" prefWidth="300.0">
+               <children>
+                  <ImageView fitHeight="53.0" fitWidth="57.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../venmoprojectassests/avatar2.jpg" />
+                     </image>
+                  </ImageView>
+                  <HBox maxHeight="-Infinity" minHeight="-Infinity" prefHeight="24.0" prefWidth="236.0">
+                     <children>
+                        <Label maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="22.0" prefWidth="187.0" text="Lebron paid you" />
+                        <Label prefHeight="17.0" prefWidth="65.0" text="+$10.00" textFill="#60c34e" />
+                     </children>
+                  </HBox>
+               </children>
+            </HBox>
+</AnchorPane>
+

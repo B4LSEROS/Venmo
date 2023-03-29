@@ -1,0 +1,93 @@
+/*  -fx-  */
+
+.root {
+	-fx-font-size: 10pt;
+}
+
+.parent{
+    -fx-background-color: #F1F5F8;
+}
+
+.payButton {
+	-fx-background-color: #92E492;
+	-fx-font-size: large;
+}
+
+.payButton:hover {
+	-fx-background-radius: 100px;
+}
+
+
+.requestButton {
+	-fx-background-color: #779ecb;
+	-fx-font-size: large;
+}
+
+.requestButton:hover {
+	-fx-background-radius: 100px;
+}
+
+.clockTextArea {
+	-fx-background-color: #F1F5F8;
+}
+
+.clockTextArea .content {
+	-fx-background-color: #F1F5F8;
+}
+
+.socialFeed {
+	-fx-padding: 0 20 10 10;
+}
+
+.socialFeedBox{
+	-fx-background-color: #dce0e6;
+}
+
+.test {
+	-fx-background-color: white;
+}
+
+
+.sidebar{
+    -fx-background-color: white;
+}
+.icons{
+    -fx-fill: #CCD0D3;
+}
+.icons:hover{
+    -fx-fill: #98A0A6;
+}
+
+.buttons{
+    -fx-background-color: transparent;
+}
+.buttons:hover{
+    -fx-background-color: transparent;
+    -fx-background-radius: 0px;    
+    -fx-border-color: #E33461;
+    -fx-border-radius: 0px;
+    -fx-border-style: solid;
+    -fx-border-width: 0px 0px 0px 2px;
+}
+
+.lblIcon{
+    -fx-background-color: #F1F5F8;
+}
+.lblIcon:hover{
+    -fx-background-color: #F1F5F8;
+    -fx-background-radius: 0px;    
+    -fx-border-color: #E33461;
+    -fx-border-radius: 0px;
+    -fx-border-width: 0px 0px 2px 0px;    
+}
+
+.round_lbl{
+    -fx-background-color: #E33461;
+    -fx-background-radius: 100px;
+    -fx-text-fill: #ffffff;
+}
+
+.search_tf{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 20px;
+}

@@ -1,0 +1,1351 @@
+04-15-2021 22.27.09 : You paid 54 $3
+04-15-2021 22.27.13 : You requested  $3 from 54
+04-15-2021 22.27.16 : You paid 54 $3
+04-15-2021 22.35.19 : You paid Jose $54.4
+04-15-2021 22.35.24 : You requested  $54.4 from Jose
+04-15-2021 22.35.29 : You paid Jose $54.4
+04-16-2021 01.01.13 : You paid gggg $54
+04-16-2021 01.01.23 : You paid gggg $54
+04-16-2021 01.20.47 : You paid jose $434
+04-16-2021 01.21.00 : You paid jose $434
+04-16-2021 01.28.40 : You paid j $43
+04-16-2021 01.28.51 : You paid j $43
+04-16-2021 01.32.21 : You paid j $43
+04-16-2021 01.32.33 : You paid j $43423
+04-16-2021 08.23.25 : You paid jose $434
+04-16-2021 08.24.21 : You paid Jose $432
+04-16-2021 08.28.10 : You requested  $432 from Jose
+04-16-2021 08.28.14 : You requested  $432 from Jose
+04-16-2021 08.31.37 : You paid Jose $43.3
+04-16-2021 08.31.56 : You requested  $43.3 from Jose
+04-16-2021 08.42.38 : You paid Jose $43.2
+04-16-2021 08.48.08 : You paid Jose $54.3
+04-16-2021 08.48.19 : You paid Jose $54.3
+04-16-2021 08.48.36 : You paid Jose $54.3
+04-16-2021 08.48.44 : You requested  $54.3 from Jose
+04-16-2021 09.13.33 : You paid jose $54.23
+04-16-2021 09.22.54 : You paid gdsgsd $432432
+04-16-2021 09.23.20 : You paid Mark $65.32
+04-16-2021 09.32.45 : You paid rewrwer $3243
+04-16-2021 11.54.23 : You paid Jose $6452
+04-16-2021 12.14.08 : You paid Jose $54.4
+04-16-2021 12.16.36 : You paid Jose $54.3
+04-16-2021 12.16.46 : You paid Jose $54.3
+04-16-2021 12.16.53 : You paid Jose $54.3
+04-16-2021 12.17.05 : You paid Jose $54.3
+04-16-2021 12.17.18 : You paid 43 $54.3
+04-16-2021 12.43.32 : You paid jose $43.2
+04-16-2021 12.48.23 : You paid Jose $54.23
+04-16-2021 12.48.29 : You paid Jose $54.23
+04-16-2021 12.48.42 : You paid Mark $423.23
+04-16-2021 12.49.03 : You paid Mark $423.23
+04-16-2021 12.49.13 : You paid gf $423.23
+04-16-2021 12.49.23 : You paid gf $423.23
+04-16-2021 12.50.39 : You paid gf $423.23
+04-16-2021 12.50.51 : You paid gf $423.23
+04-16-2021 12.57.10 : You paid Jose $65.3
+04-16-2021 13.02.13 : You paid jose $54.4
+04-16-2021 13.24.35 : You paid Jose $54.3
+04-16-2021 13.24.46 : You paid Jose $54.3
+04-16-2021 13.24.49 : You paid Jose $54.3
+04-16-2021 13.24.50 : You paid Jose $54.3
+04-16-2021 13.24.52 : You paid Jose $54.3
+04-16-2021 13.25.01 : You requested  $54.3 from Jose
+04-16-2021 13.25.09 : You paid Jose $54.3
+04-16-2021 13.25.55 : You paid Jose $54.3
+04-16-2021 13.25.58 : You paid Jose $54.3
+04-16-2021 13.30.52 : You paid Jose $54.4
+04-16-2021 13.31.13 : You paid Mark $54.4
+04-16-2021 13.32.18 : You paid John $54.3232
+04-20-2021 13.44.18 : You paid Jose $54.4
+04-20-2021 13.44.23 : You paid Jose $54.4
+04-20-2021 13.48.48 : You requested jose $54
+04-20-2021 13.51.59 : You requested jose $78
+04-20-2021 14.06.28 : You requested jose $78
+04-20-2021 14.06.30 : You paid jose $78
+04-20-2021 14.06.31 : You requested jose $78
+04-20-2021 14.06.41 : You paid jose $78
+04-20-2021 14.06.42 : You paid jose $78
+04-20-2021 14.06.43 : You paid jose $78
+04-20-2021 14.06.44 : You requested jose $78
+04-20-2021 14.06.45 : You requested jose $78
+04-20-2021 14.06.46 : You requested jose $78
+04-20-2021 14.06.46 : You requested jose $78
+04-20-2021 14.06.48 : You requested jose $78
+04-20-2021 14.06.49 : You requested jose $78
+04-20-2021 14.06.50 : You requested jose $78
+04-20-2021 14.06.57 : You requested josedsfdss $78
+04-20-2021 14.06.58 : You requested josedsfdss $78
+04-20-2021 14.06.59 : You requested josedsfdss $78
+04-20-2021 14.07.00 : You requested josedsfdss $78
+04-20-2021 14.07.00 : You requested josedsfdss $78
+04-20-2021 14.07.00 : You requested josedsfdss $78
+04-20-2021 14.07.12 : You paid josedsfdss $78
+04-20-2021 14.07.18 : You paid josedsfdss $78
+04-20-2021 14.07.19 : You paid josedsfdss $78
+04-20-2021 14.07.19 : You paid josedsfdss $78
+04-20-2021 14.07.21 : You paid josedsfdss $78
+04-20-2021 14.07.22 : You requested josedsfdss $78
+04-20-2021 14.07.22 : You requested josedsfdss $78
+04-20-2021 14.07.22 : You requested josedsfdss $78
+04-20-2021 14.07.23 : You requested josedsfdss $78
+04-20-2021 14.07.26 : You requested josedsfdss $78
+04-21-2021 16.01.57 : You paid jose $43
+04-21-2021 16.02.02 : You requested jose $43
+04-21-2021 16.02.57 : You paid fdsfsd4 $432432
+04-21-2021 16.03.01 : You requested fdsfsd4 $432432
+04-21-2021 16.03.06 : You paid fdsfsd4 $432432
+04-21-2021 16.03.12 : You requested fdsfsd4 $432432
+04-21-2021 16.25.02 : You requested 43243 $432432
+04-21-2021 16.25.07 : You paid 43243 $432432
+04-21-2021 16.25.14 : You paid 43243 $432432
+04-21-2021 16.29.56 : You paid Beto $54.2
+04-21-2021 16.30.32 : You requested Beto $54.2
+04-21-2021 16.30.36 : You requested Beto $54.2
+04-21-2021 16.30.57 : You paid Beto $54.2
+04-21-2021 16.31.15 : You paid Rick $54.2
+04-21-2021 16.31.24 : You paid Rick $54.2
+04-21-2021 16.31.39 : You requested Rick $54.2
+04-21-2021 16.31.43 : You paid Rick $54.2
+04-21-2021 17.11.07 : You paid jose $432.2
+04-21-2021 17.11.09 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+04-21-2021 17.11.12 : You requested jose $432.2
+04-21-2021 17.14.33 : You paid Jose $54
+04-21-2021 17.14.34 : CLIENT: Transaction>transaction#001,Jose,Grocery,54
+04-21-2021 17.15.03 : You requested Mark $42.2
+04-21-2021 17.15.25 : You paid Terry $42.2
+04-21-2021 17.15.26 : CLIENT: Transaction>transaction#001,Terry,Trucks,42.2
+04-21-2021 17.19.43 : You paid jose $43
+04-21-2021 17.19.45 : CLIENT: Transaction>transaction#001,jose,Barse,43
+04-21-2021 17.19.57 : You requested 432 $423
+04-21-2021 17.20.02 : You paid 432 $423
+04-21-2021 17.20.03 : CLIENT: Transaction>transaction#001,432,thomas,423
+04-21-2021 17.25.56 : You paid Jose $432
+04-21-2021 17.25.57 : CLIENT: Transaction>transaction#001,Jose,Grocery Items,432
+04-21-2021 17.27.19 : You paid Jose $42.2
+04-21-2021 17.27.21 : CLIENT: Transaction>transaction#001,Jose,Oranges,42.2
+04-21-2021 17.39.23 : You paid jose $423
+04-21-2021 17.39.24 : CLIENT: Transaction>transaction#001,jose,This,423
+04-21-2021 17.43.53 : You paid jose $432
+04-21-2021 17.43.55 : CLIENT: Transaction>transaction#001,jose,grocery,432
+04-21-2021 18.03.47 : You paid José $53.3
+04-21-2021 18.03.49 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+04-21-2021 18.03.52 : You requested José $53.3
+04-21-2021 18.06.09 : You paid Jose $42.2
+04-21-2021 18.06.11 : CLIENT: Transaction>transaction#001,Jose,Tickets,42.2
+04-21-2021 18.24.00 : You paid fsd $432.2
+04-21-2021 18.24.01 : CLIENT: Transaction>transaction#001,fsd,Tickets,432.2
+04-21-2021 18.24.41 : You paid jose $32
+04-21-2021 18.24.41 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+04-21-2021 18.24.45 : You paid jose $32
+04-21-2021 18.24.45 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+04-21-2021 18.24.49 : You paid jose $32
+04-21-2021 18.24.49 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+04-21-2021 18.24.52 : You paid jose $32
+04-21-2021 18.24.52 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+04-21-2021 18.24.54 : You paid jose $32
+04-21-2021 18.24.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+04-21-2021 18.25.40 : You paid 4 $4
+04-21-2021 18.25.42 : CLIENT: Transaction>transaction#001,4,4,4
+04-21-2021 18.25.56 : You paid re $43
+04-21-2021 18.25.57 : CLIENT: Transaction>transaction#001,re,4,43
+04-21-2021 18.26.04 : You paid rw $34
+04-21-2021 18.26.05 : CLIENT: Transaction>transaction#001,rw,r,34
+04-21-2021 18.26.12 : You paid 543 $43
+04-21-2021 18.26.13 : CLIENT: Transaction>transaction#001,543,re,43
+04-21-2021 18.26.23 : You paid 43 $43
+04-21-2021 18.26.24 : CLIENT: Transaction>transaction#001,43,4,43
+04-21-2021 18.27.01 : You paid 43 $4
+04-21-2021 18.27.03 : CLIENT: Transaction>transaction#001,43,23,4
+04-21-2021 18.27.18 : You paid 4343534 $534
+04-21-2021 18.27.19 : CLIENT: Transaction>transaction#001,4343534,534,534
+04-21-2021 18.30.09 : You paid jose $432
+04-21-2021 18.30.10 : CLIENT: Transaction>transaction#001,jose,4234,432
+04-21-2021 18.30.24 : You paid 4342 $432
+04-21-2021 18.30.25 : CLIENT: Transaction>transaction#001,4342,fsdfsd42342,432
+04-21-2021 18.39.24 : You paid Jose $432
+04-21-2021 18.39.25 : CLIENT: Transaction>transaction#001,Jose,423432,432
+04-21-2021 18.39.43 : You paid Mark $Trent
+04-21-2021 18.39.44 : CLIENT: Transaction>transaction#001,Mark,new Balance,Trent
+04-21-2021 18.39.57 : You paid Elmo $423.2
+04-21-2021 18.39.58 : CLIENT: Transaction>transaction#001,Elmo,Trent,423.2
+04-21-2021 18.45.07 : You paid jose $43242
+04-21-2021 18.45.09 : CLIENT: Transaction>transaction#001,jose,rwrwe,43242
+04-21-2021 18.45.17 : You requested rewrwer $rwerwe
+04-21-2021 18.45.18 : CLIENT: Transaction>transaction#001,rewrwer,rwerwe,rwerwe
+04-21-2021 18.45.32 : You paid Jose  $This
+04-21-2021 18.45.33 : CLIENT: Transaction>transaction#001,Jose ,Grocery ,This
+04-21-2021 18.49.46 : You paid jose $423423
+04-21-2021 18.49.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+04-21-2021 18.49.50 : You requested jose $423423
+04-21-2021 18.49.52 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+04-21-2021 18.50.52 : You paid jose $42.3
+04-21-2021 18.50.53 : CLIENT: Transaction>transaction#001,jose,Barcelona,42.3
+04-21-2021 18.51.06 : You requested Mark $423
+04-21-2021 18.51.07 : CLIENT: Transaction>transaction#001,Mark,This,423
+04-21-2021 18.51.27 : You paid Beto $543.2
+04-21-2021 18.51.28 : CLIENT: Transaction>transaction#001,Beto,Grocery,543.2
+04-21-2021 18.57.38 : You paid jose $rwerw
+04-21-2021 18.57.40 : CLIENT: Transaction>transaction#001,jose,fasdf,rwerw
+04-21-2021 18.58.38 : You paid jose $422.3
+04-21-2021 18.58.40 : CLIENT: Transaction>transaction#001,jose,Grocery Items,422.3
+04-21-2021 18.58.50 : You paid mark $423
+04-21-2021 18.58.51 : CLIENT: Transaction>transaction#001,mark,523532,423
+04-21-2021 18.59.03 : You paid Trent $4
+04-21-2021 18.59.04 : CLIENT: Transaction>transaction#001,Trent,4,4
+04-21-2021 18.59.25 : You paid fsdf $rwer
+04-21-2021 18.59.26 : CLIENT: Transaction>transaction#001,fsdf,rwer,rwer
+04-21-2021 19.03.15 : You paid jose $fasd
+04-21-2021 19.03.16 : CLIENT: Transaction>transaction#001,jose,fasd,fasd
+04-21-2021 19.03.27 : You requested mark $rwe
+04-21-2021 19.03.28 : CLIENT: Transaction>transaction#001,mark,fdas,rwe
+04-21-2021 19.03.43 : You paid trent $fads
+04-21-2021 19.03.44 : CLIENT: Transaction>transaction#001,trent,pasz,fads
+05-03-2021 13.13.23 : You paid José $543.23
+05-03-2021 13.13.25 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 13.13.29 : You requested José $543.23
+05-03-2021 13.13.31 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 13.14.52 : You requested José $543.23
+05-03-2021 13.14.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 13.14.57 : You paid José $543.23
+05-03-2021 13.14.59 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 13.15.06 : You paid José Balseros $543.23
+05-03-2021 13.15.08 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 13.53.52 : You paid Jose $543.23
+05-03-2021 13.53.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 13.55.07 : You requested Jose $543.23
+05-03-2021 13.55.09 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 14.12.53 : You paid Mark $42342.23
+05-03-2021 14.12.55 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 14.12.57 : You paid Mark $42342.23
+05-03-2021 14.12.59 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 14.13.02 : You paid Mark $42342.23
+05-03-2021 14.13.04 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 14.13.08 : You paid Mark $42342.23
+05-03-2021 14.13.10 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 14.14.11 : You paid Trent $423.2
+05-03-2021 14.14.13 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 14.14.15 : You paid Trent $423.2
+05-03-2021 14.14.17 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 14.28.46 : You requested ewrew $rewr
+05-03-2021 14.28.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 14.28.50 : You requested ewrew $rewr
+05-03-2021 14.28.52 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 14.28.54 : You paid ewrew $rewr
+05-03-2021 14.28.56 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 14.29.00 : You paid ewrew $rew543534
+05-03-2021 14.29.02 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 14.29.07 : You requested ewrew $rew543534
+05-03-2021 14.29.09 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.29.25 : You paid Jose $423423
+05-03-2021 16.29.27 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.29.30 : You requested Jose $423423
+05-03-2021 16.29.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.39.34 : You paid fdsfs $sdfsd
+05-03-2021 16.39.36 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.41.27 : You paid fsdfsd $sdfsd
+05-03-2021 16.41.29 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.41.31 : You paid fsdfsd $sdfsd
+05-03-2021 16.41.33 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.41.42 : You requested fsdfsd $sdfsd
+05-03-2021 16.41.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.43.17 : You paid Jose $432.23
+05-03-2021 16.43.19 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.43.26 : You paid Jose $432.23
+05-03-2021 16.43.28 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.43.45 : You paid Jose $423.2
+05-03-2021 16.43.47 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.43.50 : You paid Jose $423.2
+05-03-2021 16.43.52 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.47.22 : You paid Jose $423
+05-03-2021 16.47.24 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.47.26 : You paid Jose $423
+05-03-2021 16.47.28 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.47.32 : You paid Jose $423
+05-03-2021 16.47.34 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.47.36 : You paid Jose $423
+05-03-2021 16.47.38 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.57.55 : You paid fdsafd $fafda
+05-03-2021 16.57.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.58.01 : You requested fdsafd $fafda
+05-03-2021 16.58.03 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.58.05 : You paid fdsafd $fafda
+05-03-2021 16.58.07 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.58.12 : You paid tree $fafda
+05-03-2021 16.58.14 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.58.28 : You paid 54323 $fafda
+05-03-2021 16.58.30 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.59.02 : You paid 1 $1
+05-03-2021 16.59.04 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.59.07 : You paid 2 $1
+05-03-2021 16.59.09 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.59.13 : You paid 3 $1
+05-03-2021 16.59.15 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 16.59.18 : You requested 4 $1
+05-03-2021 16.59.20 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.03.27 : You paid jose $42
+05-03-2021 17.03.29 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.06.12 : You paid jose $432
+05-03-2021 17.06.14 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.18.21 : You paid tertre $retre
+05-03-2021 17.18.23 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.18.24 : You paid tertre $retre
+05-03-2021 17.18.26 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.18.28 : You paid tertre $retre
+05-03-2021 17.18.30 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.18.32 : You paid tertre $retre
+05-03-2021 17.18.34 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.18.36 : You paid tertre $retre
+05-03-2021 17.18.38 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.18.40 : You paid tertre $retre
+05-03-2021 17.18.42 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.18.43 : You requested tertre $retre
+05-03-2021 17.18.45 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.18.47 : You paid tertre $retre
+05-03-2021 17.18.49 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.18.51 : You requested tertre $retre
+05-03-2021 17.18.53 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.19.09 : You paid fasfdas $afdasf
+05-03-2021 17.19.11 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.19.12 : You paid fasfdas $afdasf
+05-03-2021 17.19.14 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.19.16 : You paid fasfdas $afdasf
+05-03-2021 17.19.18 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.19.19 : You paid fasfdas $afdasf
+05-03-2021 17.19.21 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.19.23 : You paid fasfdas $afdasf
+05-03-2021 17.19.25 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.19.26 : You paid fasfdas $afdasf
+05-03-2021 17.19.28 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.19.30 : You paid fasfdas $afdasf
+05-03-2021 17.19.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.19.34 : You paid fasfdas $afdasf
+05-03-2021 17.19.36 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.19.38 : You paid fasfdas $afdasf
+05-03-2021 17.19.40 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.19.42 : You paid fasfdas $afdasf
+05-03-2021 17.19.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.25.09 : You paid jose $423423.423
+05-03-2021 17.25.11 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.25.53 : You paid erwer $werwerwe
+05-03-2021 17.25.55 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.26.47 : You paid 4324 $32423
+05-03-2021 17.26.49 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.26.52 : You paid 4324 $32423
+05-03-2021 17.26.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.27.00 : You paid 5345 $32423
+05-03-2021 17.27.02 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.27.05 : You paid 5345 $32423
+05-03-2021 17.27.07 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.28.42 : You paid rwerew $werwe
+05-03-2021 17.28.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.28.46 : You paid rwerew $werwe
+05-03-2021 17.28.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 17.28.50 : You paid rwerew $werwe
+05-03-2021 17.28.52 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 18.08.53 : You paid 4234 $23423
+05-03-2021 18.08.55 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 18.08.58 : You paid 4234 $23423
+05-03-2021 18.09.00 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 18.09.04 : You paid 4234 $23423
+05-03-2021 18.09.06 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 18.09.20 : You paid 432 $4234
+05-03-2021 18.09.23 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 18.09.52 : You paid 432 $23423
+05-03-2021 18.09.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 18.11.56 : You paid 42342 $4234
+05-03-2021 18.11.58 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 18.45.39 : You paid jose $54.23
+05-03-2021 18.45.41 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 18.45.44 : You paid jose $54.23
+05-03-2021 18.45.46 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 18.45.51 : You paid jose $54.23
+05-03-2021 18.45.53 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 18.45.56 : You paid jose $54.23
+05-03-2021 18.45.58 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 18.53.51 : You paid fdsfsd $sdfsd
+05-03-2021 18.53.53 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.00.17 : You paid Jose $42.2
+05-03-2021 19.00.19 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.01.01 : You paid Jose $321.12
+05-03-2021 19.01.03 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.01.40 : You paid jose $23423.2
+05-03-2021 19.01.42 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.02.12 : You paid jose $423.32
+05-03-2021 19.02.14 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.05.37 : You paid Jose $54.23
+05-03-2021 19.05.39 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.06.43 : You paid Jose $543.12
+05-03-2021 19.06.45 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.07.43 : You paid Jose $42.23
+05-03-2021 19.07.45 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.08.39 : You paid Trucks $65.23
+05-03-2021 19.08.41 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.08.45 : You paid Trucks $65.23
+05-03-2021 19.08.47 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.08.52 : You paid Trucks $65.23
+05-03-2021 19.08.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.09.21 : You paid Jose $43.23
+05-03-2021 19.09.23 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.30.16 : You paid Jose $43.23
+05-03-2021 19.30.18 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.31.09 : You paid Jose $42.2
+05-03-2021 19.31.11 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.32.05 : You paid Jose $54.4
+05-03-2021 19.32.07 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.42.53 : You paid Jose $54.4
+05-03-2021 19.42.55 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.43.19 : You paid Jose $432.23
+05-03-2021 19.43.21 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.45.53 : You paid jose $342
+05-03-2021 19.45.55 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.46.27 : You paid rwer $4234
+05-03-2021 19.46.29 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.47.37 : You paid jose $432
+05-03-2021 19.47.39 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.47.55 : You paid user $432423
+05-03-2021 19.47.58 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 19.48.34 : You paid fs $s
+05-03-2021 19.48.36 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 20.58.48 : You paid Jose $423
+05-03-2021 20.58.50 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 20.58.52 : You paid Jose $423
+05-03-2021 20.58.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 20.59.01 : You paid Jose $423
+05-03-2021 20.59.03 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 20.59.05 : You paid Jose $423
+05-03-2021 20.59.07 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.00.10 : You paid fsd $e
+05-03-2021 21.00.12 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.00.14 : You paid fsd $e
+05-03-2021 21.00.16 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.00.20 : You paid fsd $e
+05-03-2021 21.00.22 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.07.30 : You paid 5 $3
+05-03-2021 21.07.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.07.38 : You paid 5 $3
+05-03-2021 21.07.40 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.07.42 : You paid 5 $3
+05-03-2021 21.07.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.07.46 : You paid 5 $3
+05-03-2021 21.07.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.07.50 : You paid 5 $3
+05-03-2021 21.07.52 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.07.53 : You paid 5 $3
+05-03-2021 21.07.55 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.07.57 : You paid 5 $3
+05-03-2021 21.07.59 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.08.01 : You paid 5 $3
+05-03-2021 21.08.03 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.10.15 : You requested 5 $3
+05-03-2021 21.10.17 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.10.39 : You paid rw $3
+05-03-2021 21.10.41 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.10.43 : You paid rw $3
+05-03-2021 21.10.45 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.10.47 : You paid rw $3
+05-03-2021 21.10.49 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.10.51 : You paid rw $3
+05-03-2021 21.10.53 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.10.54 : You paid rw $3
+05-03-2021 21.10.56 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.12.20 : You requested rw $3
+05-03-2021 21.12.22 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.16.10 : You paid 3 $2
+05-03-2021 21.16.12 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.16.15 : You paid 3 $2
+05-03-2021 21.16.17 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.16.18 : You paid 3 $2
+05-03-2021 21.16.20 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.16.23 : You paid 3 $2
+05-03-2021 21.16.25 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.20.23 : You paid 3 $2
+05-03-2021 21.20.25 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.20.27 : You paid 3 $2
+05-03-2021 21.20.29 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.20.30 : You paid 3 $2
+05-03-2021 21.20.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.20.34 : You requested 3 $2
+05-03-2021 21.20.36 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.43.36 : You paid 42342 $rwer
+05-03-2021 21.43.39 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.43.40 : You paid 42342 $rwer
+05-03-2021 21.43.42 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.43.44 : You paid 42342 $rwer
+05-03-2021 21.43.46 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.43.48 : You requested 42342 $rwer
+05-03-2021 21.43.50 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.43.52 : You requested 42342 $rwer
+05-03-2021 21.43.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.46.17 : You paid e $e
+05-03-2021 21.46.19 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.46.22 : You paid e $e
+05-03-2021 21.46.24 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.46.26 : You paid e $e
+05-03-2021 21.46.28 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.46.30 : You paid e $e
+05-03-2021 21.46.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.48.59 : You paid 3 $2
+05-03-2021 21.49.01 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.49.04 : You requested 423 $2
+05-03-2021 21.49.06 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.49.08 : You paid 423 $2423423
+05-03-2021 21.49.10 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.49.14 : You paid 423 $2423423
+05-03-2021 21.49.16 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.49.30 : You paid e $w
+05-03-2021 21.49.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.49.35 : You paid e423423 $w
+05-03-2021 21.49.37 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.49.40 : You paid ewer $w
+05-03-2021 21.49.42 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.49.45 : You paid 324242 $w
+05-03-2021 21.49.47 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.49.48 : You paid 324242 $w
+05-03-2021 21.49.50 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.56.16 : You paid ewe $ewe
+05-03-2021 21.56.18 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.56.20 : You paid ewe $ewe
+05-03-2021 21.56.22 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.56.24 : You paid ewe $ewe
+05-03-2021 21.56.26 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.56.29 : You paid werwe $ewe
+05-03-2021 21.56.31 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.56.33 : You requested werwe $ewe
+05-03-2021 21.56.35 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 21.56.37 : You paid werwe $ewe
+05-03-2021 21.56.39 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.02.19 : You paid rwe $wrwe
+05-03-2021 22.02.21 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.02.24 : You paid rwe $wrwe
+05-03-2021 22.02.26 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.02.28 : You requested rwe $wrwe
+05-03-2021 22.02.30 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.02.32 : You paid rwe $wrwe
+05-03-2021 22.02.34 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.02.39 : You requested rwe $wrwe
+05-03-2021 22.02.41 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.04.36 : You paid 423 $342
+05-03-2021 22.04.38 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.04.43 : You requested 423 $342
+05-03-2021 22.04.45 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.04.47 : You paid 423 $342
+05-03-2021 22.04.49 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.04.55 : You paid 423 $342
+05-03-2021 22.04.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.05.02 : You requested 423 $342
+05-03-2021 22.05.04 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.05.10 : You paid 423 $342
+05-03-2021 22.05.12 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.05.57 : You paid 342 $3423
+05-03-2021 22.05.59 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.06.02 : You paid 342 $3423
+05-03-2021 22.06.04 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.06.10 : You requested 342 $3423
+05-03-2021 22.06.12 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.06.16 : You paid 342 $3423
+05-03-2021 22.06.18 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.06.55 : You paid 423432 $234234
+05-03-2021 22.06.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.07.04 : You requested 423432 $234234
+05-03-2021 22.07.06 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.07.11 : You paid 423432 $234234
+05-03-2021 22.07.13 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.09.27 : You paid 432 $423
+05-03-2021 22.09.29 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.09.30 : You requested 432 $423
+05-03-2021 22.09.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.09.34 : You paid 432 $423
+05-03-2021 22.09.36 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.09.38 : You paid 432 $423
+05-03-2021 22.09.40 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.09.42 : You paid 432 $423
+05-03-2021 22.09.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-03-2021 22.09.46 : You paid 432 $423
+05-03-2021 22.09.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.27.23 : You paid 432 $2
+05-04-2021 08.27.25 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.27.38 : You paid 432 $2
+05-04-2021 08.27.40 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.27.50 : You requested 432 $2
+05-04-2021 08.27.52 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.28.18 : You paid rew $rew
+05-04-2021 08.28.20 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.28.27 : You paid rew $rew
+05-04-2021 08.28.29 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.28.33 : You paid rew $rew
+05-04-2021 08.28.35 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.28.44 : You paid rew $rew
+05-04-2021 08.28.46 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.28.49 : You paid rew $rew
+05-04-2021 08.28.51 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.29.30 : You paid 2 $2
+05-04-2021 08.29.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.30.47 : You paid 3 $3
+05-04-2021 08.30.49 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.31.42 : You paid 3 $2
+05-04-2021 08.31.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.31.52 : You paid 3 $2
+05-04-2021 08.31.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.31.55 : You paid 3 $2
+05-04-2021 08.31.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.32.02 : You paid 3 $2
+05-04-2021 08.32.04 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.32.59 : You paid e $e
+05-04-2021 08.33.01 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.33.08 : You paid e $e
+05-04-2021 08.33.10 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.33.16 : You paid e $e
+05-04-2021 08.33.18 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.33.23 : You paid e $e
+05-04-2021 08.33.25 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.33.31 : You paid e $e
+05-04-2021 08.33.33 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.34.55 : You paid 3 $3
+05-04-2021 08.34.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.35.03 : You paid 3 $3
+05-04-2021 08.35.05 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.35.17 : You paid fsd $3
+05-04-2021 08.35.19 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.35.32 : You paid e $e
+05-04-2021 08.35.34 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.35.37 : You paid 2 $e
+05-04-2021 08.35.39 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.35.42 : You requested 3 $e
+05-04-2021 08.35.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.35.52 : You paid 4 $e
+05-04-2021 08.35.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.35.59 : You requested 5 $e
+05-04-2021 08.36.01 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.36.47 : You paid jose $42
+05-04-2021 08.36.49 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.36.58 : You paid Mark $42
+05-04-2021 08.37.00 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.37.06 : You requested Stive $42
+05-04-2021 08.37.08 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.37.13 : You paid Trent $42
+05-04-2021 08.37.15 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.37.34 : You paid 42r $42
+05-04-2021 08.37.36 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.37.46 : You requested fdss $42
+05-04-2021 08.37.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.37.55 : You paid sdfdf $42
+05-04-2021 08.37.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.39.00 : You requested Rafael $3
+05-04-2021 08.39.02 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.40.28 : You paid 1 $2
+05-04-2021 08.40.30 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.40.33 : You paid 2 $2
+05-04-2021 08.40.35 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.40.37 : You requested 3 $2
+05-04-2021 08.40.39 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.40.44 : You paid 4 $2
+05-04-2021 08.40.46 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.40.58 : You paid 5 $2
+05-04-2021 08.41.00 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.41.05 : You paid 6 $2
+05-04-2021 08.41.07 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.41.12 : You paid 7 $2
+05-04-2021 08.41.14 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.41.22 : You requested 8 $2
+05-04-2021 08.41.24 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.48.05 : You paid Jose $54.23
+05-04-2021 08.48.07 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.48.22 : You requested Jose $54.23
+05-04-2021 08.48.24 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.48.27 : You paid Jose $54.23
+05-04-2021 08.48.29 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.48.32 : You requested Jose $54.23
+05-04-2021 08.48.34 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.48.36 : You paid Jose $54.23
+05-04-2021 08.48.38 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.48.41 : You paid Jose $54.23rew
+05-04-2021 08.48.43 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.57.58 : You paid dsfsf $sdfsd
+05-04-2021 08.58.00 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.58.02 : You paid dsfsf $sdfsd
+05-04-2021 08.58.04 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.58.07 : You requested dsfsf $sdfsd
+05-04-2021 08.58.09 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.58.11 : You paid dsfsf $sdfsd
+05-04-2021 08.58.13 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.58.15 : You requested dsfsf $sdfsd
+05-04-2021 08.58.17 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.58.19 : You paid dsfsf $sdfsd
+05-04-2021 08.58.21 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.59.07 : You paid e $e
+05-04-2021 08.59.09 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.59.11 : You requested e $e
+05-04-2021 08.59.13 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.59.14 : You paid e $e
+05-04-2021 08.59.16 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 08.59.18 : You requested e $e
+05-04-2021 08.59.20 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.00.55 : You paid e $w
+05-04-2021 09.00.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.01.00 : You paid e $w
+05-04-2021 09.01.02 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.01.04 : You paid e $w
+05-04-2021 09.01.06 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.01.08 : You paid e $w
+05-04-2021 09.01.10 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.01.20 : You paid s $s
+05-04-2021 09.01.22 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.02.33 : You paid 2 $3
+05-04-2021 09.02.35 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.02.55 : You paid 3 $3
+05-04-2021 09.02.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.03.00 : You paid 33 $3
+05-04-2021 09.03.02 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.04.44 : You paid 3 $2
+05-04-2021 09.04.46 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.21.34 : You paid r $w
+05-04-2021 09.21.36 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.21.38 : You paid r $w
+05-04-2021 09.21.40 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.21.41 : You paid r $w
+05-04-2021 09.21.43 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.21.45 : You paid r $w
+05-04-2021 09.21.47 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.21.49 : You paid r $w
+05-04-2021 09.21.51 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.21.54 : You paid rewrwerwerw $w
+05-04-2021 09.21.56 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.22.00 : You paid 2 $w
+05-04-2021 09.22.02 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.22.04 : You paid 3 $w
+05-04-2021 09.22.06 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.22.09 : You paid 4 $w
+05-04-2021 09.22.11 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.23.10 : You paid w $e
+05-04-2021 09.23.12 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.23.15 : You paid 2 $e
+05-04-2021 09.23.17 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.23.20 : You paid 3 $e
+05-04-2021 09.23.22 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.23.26 : You paid 4 $e
+05-04-2021 09.23.28 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.23.31 : You paid 6 $e
+05-04-2021 09.23.33 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.23.38 : You paid 7 $e
+05-04-2021 09.23.40 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.29.34 : You paid Jose $4324.23
+05-04-2021 09.29.36 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.29.41 : You requested mark $4324.23
+05-04-2021 09.29.43 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.29.48 : You paid rews $4324.23
+05-04-2021 09.29.50 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.29.56 : You requested protect $4324.23
+05-04-2021 09.29.58 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.30.01 : You paid rewrwe $4324.23
+05-04-2021 09.30.03 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.34.11 : You paid sdfds $sdfs
+05-04-2021 09.34.13 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.34.18 : You paid erwerw $sdfs
+05-04-2021 09.34.20 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.34.23 : You paid ewreee $sdfs
+05-04-2021 09.34.25 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.34.28 : You paid werwew $sdfs
+05-04-2021 09.34.30 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.34.33 : You paid rerere $sdfs
+05-04-2021 09.34.35 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.46.57 : You paid fds $dfsd
+05-04-2021 09.46.59 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.47.02 : You paid 2 $dfsd
+05-04-2021 09.47.04 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.47.10 : You paid 3 $dfsd
+05-04-2021 09.47.12 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.49.55 : You paid e $w
+05-04-2021 09.49.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.50.00 : You paid 3 $w
+05-04-2021 09.50.02 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.50.05 : You paid 4 $w
+05-04-2021 09.50.07 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.50.53 : You paid 1 $2
+05-04-2021 09.50.55 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.51.00 : You paid 2 $2
+05-04-2021 09.51.02 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.51.38 : You paid 1 $1
+05-04-2021 09.51.40 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.51.46 : You paid 2 $1
+05-04-2021 09.51.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.52.16 : You paid 1 $1
+05-04-2021 09.52.18 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.52.38 : You paid 2 $1
+05-04-2021 09.52.40 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.53.23 : You paid 1 $1
+05-04-2021 09.53.25 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.53.35 : You paid 2 $12
+05-04-2021 09.53.37 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.54.24 : You paid 1 $1
+05-04-2021 09.54.26 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.54.39 : You paid 2 $1
+05-04-2021 09.54.41 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.54.50 : You paid 3 $1
+05-04-2021 09.54.52 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.54.55 : You paid 4 $1
+05-04-2021 09.54.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.55.00 : You paid 5 $1
+05-04-2021 09.55.02 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.55.10 : You paid 6 $1
+05-04-2021 09.55.12 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.57.47 : You paid 1 $1
+05-04-2021 09.57.49 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.57.58 : You paid 2 $1
+05-04-2021 09.58.00 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.58.04 : You paid 3 $1
+05-04-2021 09.58.06 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.58.08 : You paid 4 $1
+05-04-2021 09.58.10 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.58.31 : You paid 5 $1
+05-04-2021 09.58.33 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.58.42 : You paid 6 $1
+05-04-2021 09.58.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.59.42 : You paid 1 $1
+05-04-2021 09.59.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.59.46 : You paid 2 $1
+05-04-2021 09.59.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.59.51 : You paid 3 $1
+05-04-2021 09.59.53 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 09.59.58 : You paid 4 $1
+05-04-2021 10.00.00 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.00.04 : You paid 5 $1
+05-04-2021 10.00.06 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.00.10 : You paid 6 $1
+05-04-2021 10.00.12 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.00.27 : You paid 7 $1
+05-04-2021 10.00.29 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.00.32 : You paid 8 $1
+05-04-2021 10.00.34 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.02.16 : You paid 1 $1
+05-04-2021 10.02.18 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.02.20 : You paid 2 $1
+05-04-2021 10.02.23 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.02.26 : You paid 3 $1
+05-04-2021 10.02.28 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.02.30 : You paid 4 $1
+05-04-2021 10.02.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.02.35 : You paid 5 $1
+05-04-2021 10.02.37 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.15.08 : You paid 1 $1
+05-04-2021 10.15.10 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.15.18 : You paid 2 $1
+05-04-2021 10.15.20 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.15.24 : You requested 3 $1
+05-04-2021 10.15.26 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.15.28 : You paid 4 $1
+05-04-2021 10.15.30 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.15.48 : You paid 1 $1
+05-04-2021 10.15.50 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.15.53 : You paid 2 $1
+05-04-2021 10.15.55 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.15.57 : You paid 3 $1
+05-04-2021 10.15.59 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.16.03 : You paid 4 $1
+05-04-2021 10.16.05 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.16.08 : You paid 5 $1
+05-04-2021 10.16.10 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.16.14 : You paid 6 $1
+05-04-2021 10.16.16 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.16.19 : You paid 7 $1
+05-04-2021 10.16.21 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.17.15 : You paid 1 $1
+05-04-2021 10.17.17 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.17.20 : You paid 2 $1
+05-04-2021 10.17.22 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.17.25 : You paid 4 $1
+05-04-2021 10.17.27 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.17.30 : You paid 5 $1
+05-04-2021 10.17.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.17.35 : You paid 6 $1
+05-04-2021 10.17.37 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.17.39 : You requested 7 $1
+05-04-2021 10.17.41 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.17.47 : You paid 8 $1
+05-04-2021 10.17.49 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.17.54 : You paid 9 $1
+05-04-2021 10.17.56 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.18.00 : You paid 10 $1
+05-04-2021 10.18.02 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.18.07 : You paid 11 $1
+05-04-2021 10.18.09 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.19.14 : You paid Jose $123
+05-04-2021 10.19.16 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.20.04 : You paid 1 $654.34
+05-04-2021 10.20.06 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.20.20 : You requested Nicholas $654.34
+05-04-2021 10.20.22 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.20.33 : You paid Mark $654.34
+05-04-2021 10.20.35 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.22.28 : You paid 1 $1
+05-04-2021 10.22.30 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.22.35 : You paid 2 $1
+05-04-2021 10.22.37 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.22.41 : You paid 3 $1
+05-04-2021 10.22.43 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.22.46 : You paid 4 $1
+05-04-2021 10.22.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.23.39 : You paid 1 $2
+05-04-2021 10.23.41 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.23.44 : You paid 3 $2
+05-04-2021 10.23.46 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.23.52 : You paid 5 $2
+05-04-2021 10.23.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.24.31 : You paid 1 $1
+05-04-2021 10.24.33 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.24.37 : You paid 2 $1
+05-04-2021 10.24.39 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.24.43 : You paid 3 $1
+05-04-2021 10.24.45 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.24.47 : You paid 4 $1
+05-04-2021 10.24.49 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.25.51 : You paid 1 $1
+05-04-2021 10.25.53 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.25.58 : You paid 3 $1
+05-04-2021 10.26.00 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.30.15 : You paid 1 $1
+05-04-2021 10.30.17 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.30.20 : You paid 2 $1
+05-04-2021 10.30.22 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.30.26 : You paid 3 $1
+05-04-2021 10.30.28 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.30.31 : You paid 4 $1
+05-04-2021 10.30.33 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.30.36 : You paid 5 $1
+05-04-2021 10.30.38 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.30.40 : You paid 6 $1
+05-04-2021 10.30.42 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.30.46 : You paid 7 $1
+05-04-2021 10.30.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.30.51 : You paid 8 $1
+05-04-2021 10.30.53 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.37.21 : You paid 1 $1
+05-04-2021 10.37.23 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.37.25 : You paid 2 $1
+05-04-2021 10.37.27 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.37.30 : You paid 3 $1
+05-04-2021 10.37.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.37.34 : You paid 4 $1
+05-04-2021 10.37.36 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.38.02 : You paid 1 $1
+05-04-2021 10.38.04 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.38.25 : You paid 1 $1
+05-04-2021 10.38.27 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.38.29 : You paid 2 $1
+05-04-2021 10.38.31 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.38.34 : You paid 3 $1
+05-04-2021 10.38.36 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.38.38 : You paid 4 $1
+05-04-2021 10.38.40 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.38.54 : You paid 1 $1
+05-04-2021 10.38.56 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.38.58 : You paid 2 $1
+05-04-2021 10.39.00 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.39.02 : You paid 3 $1
+05-04-2021 10.39.04 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.39.08 : You paid 4 $1
+05-04-2021 10.39.10 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.39.31 : You paid 1 $1
+05-04-2021 10.39.33 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.39.37 : You paid 2 $1
+05-04-2021 10.39.39 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.39.42 : You paid 3 $1
+05-04-2021 10.39.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.39.47 : You paid 4 $1
+05-04-2021 10.39.49 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.40.06 : You paid 1 $1
+05-04-2021 10.40.08 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.40.12 : You paid 2 $1
+05-04-2021 10.40.14 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.40.17 : You paid 3 $1
+05-04-2021 10.40.19 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.40.22 : You paid 4 $1
+05-04-2021 10.40.24 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.40.30 : You paid 5 $1
+05-04-2021 10.40.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.40.35 : You paid 6 $1
+05-04-2021 10.40.37 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.40.45 : You paid 7 $1
+05-04-2021 10.40.47 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.43.48 : You paid 1 $1
+05-04-2021 10.43.50 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.43.53 : You paid 2 $1
+05-04-2021 10.43.55 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.44.46 : You paid 1 $1
+05-04-2021 10.44.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.44.50 : You paid 2 $1
+05-04-2021 10.44.52 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.44.56 : You paid 3 $1
+05-04-2021 10.44.58 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.45.01 : You paid 4 $1
+05-04-2021 10.45.03 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.45.44 : You paid 1 $1
+05-04-2021 10.45.46 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.45.48 : You paid 2 $1
+05-04-2021 10.45.50 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.45.55 : You paid 3 $1
+05-04-2021 10.45.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.46.02 : You paid 4 $1
+05-04-2021 10.46.04 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.46.16 : You paid 5 $1
+05-04-2021 10.46.18 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.46.20 : You paid 6 $1
+05-04-2021 10.46.22 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.46.25 : You paid 7 $1
+05-04-2021 10.46.27 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.46.31 : You paid 8 $1
+05-04-2021 10.46.33 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.46.53 : You paid 1 $1
+05-04-2021 10.46.55 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.47.28 : You paid 1 $1
+05-04-2021 10.47.30 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.47.32 : You paid 2 $1
+05-04-2021 10.47.34 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.48.42 : You paid 1 $1
+05-04-2021 10.48.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.49.26 : You paid 1 $1
+05-04-2021 10.49.28 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.49.51 : You paid 1 $1
+05-04-2021 10.49.53 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.57.30 : You paid 1 $1
+05-04-2021 10.57.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.57.42 : You paid 2 $1
+05-04-2021 10.57.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 10.59.58 : You paid 1 $1
+05-04-2021 11.00.00 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.00.13 : You paid 1 $1
+05-04-2021 11.00.15 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.00.16 : You paid 1 $1
+05-04-2021 11.00.18 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.03.12 : You paid 1 $2
+05-04-2021 11.03.14 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.05.49 : You paid 1 $1
+05-04-2021 11.05.51 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.06.17 : You paid 1 $1
+05-04-2021 11.06.19 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.06.36 : You paid 1 $1
+05-04-2021 11.06.38 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.06.42 : You paid 2 $12
+05-04-2021 11.06.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.06.46 : You paid 4 $12
+05-04-2021 11.06.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.06.53 : You requested 5 $12
+05-04-2021 11.06.55 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.07.14 : You paid 1 $1
+05-04-2021 11.07.16 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.07.18 : You paid 2 $1
+05-04-2021 11.07.20 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.07.22 : You requested 3 $1
+05-04-2021 11.07.24 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.07.27 : You paid 4 $1
+05-04-2021 11.07.29 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.07.31 : You paid 5 $1
+05-04-2021 11.07.33 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.07.38 : You paid 6 $1
+05-04-2021 11.07.40 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.07.43 : You paid 7 $1
+05-04-2021 11.07.45 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.07.48 : You paid 8 $1
+05-04-2021 11.07.50 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.07.53 : You requested 9 $1
+05-04-2021 11.07.55 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.09.37 : You paid 1 $1
+05-04-2021 11.09.39 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.09.43 : You paid 2 $13
+05-04-2021 11.09.45 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.09.50 : You paid 2 $13
+05-04-2021 11.09.52 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.10.20 : You paid 1 $321.32
+05-04-2021 11.10.22 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.18.49 : You paid 1 $1
+05-04-2021 11.18.51 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.18.55 : You requested 1 $1
+05-04-2021 11.18.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.19.00 : You paid 4 $1
+05-04-2021 11.19.02 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.20.00 : You paid 1 $1
+05-04-2021 11.20.02 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.20.06 : You requested 2 $1
+05-04-2021 11.20.08 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.22.02 : You paid 1 $1
+05-04-2021 11.22.05 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.22.09 : You paid 3 $3
+05-04-2021 11.22.11 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.22.15 : You paid 4 $3
+05-04-2021 11.22.17 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.23.43 : You paid jose $1
+05-04-2021 11.23.45 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.23.49 : You requested mark $1
+05-04-2021 11.23.51 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.23.56 : You paid mark $1
+05-04-2021 11.23.58 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.25.48 : You paid Jose $Balseros
+05-04-2021 11.25.50 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.30.08 : You paid 1 $2
+05-04-2021 11.30.10 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.30.15 : You paid 1 $2
+05-04-2021 11.30.17 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.31.37 : You paid 1 $2
+05-04-2021 11.31.39 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.31.44 : You paid 1 $2
+05-04-2021 11.31.46 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.32.09 : You paid Jose $32.12
+05-04-2021 11.32.11 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.32.28 : You requested Jose $32.12
+05-04-2021 11.32.30 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.33.00 : You paid jose $4234.423
+05-04-2021 11.33.02 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.33.06 : You paid josemarkre $4234.423
+05-04-2021 11.33.08 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.33.17 : You paid josemarkrefadfadsfads $4234.423
+05-04-2021 11.33.19 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.34.01 : You paid 32 $32
+05-04-2021 11.34.03 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.34.06 : You paid 32423333333333 $32
+05-04-2021 11.34.08 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.34.11 : You paid 324233333333332344444444444 $32
+05-04-2021 11.34.13 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.34.39 : You paid jose $4324
+05-04-2021 11.34.41 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.34.45 : You paid josefdsfaaaaaaaaaaaa $4324
+05-04-2021 11.34.47 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.35.55 : You paid 32131231312 $21312312
+05-04-2021 11.35.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.36.01 : You paid 32131231312312312312 $21312312
+05-04-2021 11.36.03 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.36.09 : You paid 32131231312312312312 $21312312
+05-04-2021 11.36.11 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.36.43 : You paid jose $4322.23
+05-04-2021 11.36.45 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.36.52 : You paid jose david balseros pinto $4322.23
+05-04-2021 11.36.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.37.01 : You requested jose david balseros pinto $4322.23
+05-04-2021 11.37.03 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.37.21 : You requested jose david balseros pinto $4322.23
+05-04-2021 11.37.23 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.37.25 : You paid jose david balseros pinto $4322.23
+05-04-2021 11.37.27 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.38.10 : You paid jose $31.21
+05-04-2021 11.38.12 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.38.35 : You paid eq $eqwe
+05-04-2021 11.38.37 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.39.05 : You paid das $das
+05-04-2021 11.39.07 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.39.09 : You requested das $das
+05-04-2021 11.39.11 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.39.15 : You paid das $das
+05-04-2021 11.39.17 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.39.42 : You paid dasd $asdasdas
+05-04-2021 11.39.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.39.52 : You paid dasd $asdasdas
+05-04-2021 11.39.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.40.55 : You paid 3213 $3123
+05-04-2021 11.40.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.41.01 : You paid 3213 $3123
+05-04-2021 11.41.03 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.41.06 : You requested 3213 $3123
+05-04-2021 11.41.08 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.41.12 : You paid fsafd $3123
+05-04-2021 11.41.14 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.41.16 : You requested fdfd $3123
+05-04-2021 11.41.18 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.42.41 : You paid rwrew $rwerw
+05-04-2021 11.42.43 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.44.16 : You paid fafd $afdaf
+05-04-2021 11.44.18 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.44.31 : You paid fadsf $adfad
+05-04-2021 11.44.33 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.45.36 : You paid d $d
+05-04-2021 11.45.38 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.45.41 : You paid d $d
+05-04-2021 11.45.43 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.46.16 : You paid fadf $adfads
+05-04-2021 11.46.18 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.50.23 : You paid Jose $423.32
+05-04-2021 11.50.25 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.51.25 : You paid fdaf $dafsd
+05-04-2021 11.51.27 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.51.31 : You paid fdaf $dafsd
+05-04-2021 11.51.33 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.51.36 : You requested fdaf $dafsd
+05-04-2021 11.51.38 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.51.41 : You paid fdaf $dafsd
+05-04-2021 11.51.43 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.51.51 : You paid tre $dafsd
+05-04-2021 11.51.53 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.52.32 : You paid jose $432.23
+05-04-2021 11.52.34 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.52.36 : You requested jose $432.23
+05-04-2021 11.52.38 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.53.02 : You paid 1 $2
+05-04-2021 11.53.04 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.53.24 : You paid 432 $423
+05-04-2021 11.53.26 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.53.30 : You paid 432 $423
+05-04-2021 11.53.32 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.53.35 : You paid 432 $423
+05-04-2021 11.53.37 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.53.41 : You paid 432afdafasfdsffads $423
+05-04-2021 11.53.43 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 11.54.31 : You paid 432afdafasfdsffads $423
+05-04-2021 11.54.33 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 12.12.01 : You paid jose $432.23
+05-04-2021 12.12.03 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 12.12.05 : You requested jose $432.23
+05-04-2021 12.12.07 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 12.12.08 : You paid jose $432.23
+05-04-2021 12.12.10 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 12.12.12 : You requested jose $432.23
+05-04-2021 12.12.14 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 12.12.16 : You paid jose $432.23
+05-04-2021 12.12.18 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 12.16.05 : You paid 1 $21
+05-04-2021 12.16.07 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 12.16.15 : You paid 1 $21
+05-04-2021 12.16.17 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 12.17.13 : You paid jose $432.2
+05-04-2021 12.17.15 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 12.17.20 : You paid rew $432.2
+05-04-2021 12.17.22 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 12.17.32 : You paid rew $432.2
+05-04-2021 12.17.34 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 12.17.36 : You paid rew $432.2
+05-04-2021 12.17.38 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 12.21.00 : You paid fdsf $sdfsd
+05-04-2021 12.21.01 : CLIENT: Transaction>transaction#001,fdsf,dfsdfs,sdfsd
+05-04-2021 12.21.39 : You paid Mark $54.23
+05-04-2021 12.21.40 : CLIENT: Transaction>transaction#001,Mark,Grocery Items,54.23
+05-04-2021 12.26.59 : You paid jose $432.23
+05-04-2021 12.27.00 : CLIENT: Transaction>transaction#001,jose,Grocery Items,432.23
+05-04-2021 12.28.36 : You paid jose $424
+05-04-2021 12.28.37 : CLIENT: Transaction>transaction#001,jose,Grocery Items,424
+05-04-2021 12.29.19 : You paid Trent $43.23
+05-04-2021 12.29.20 : CLIENT: Transaction>transaction#001,Trent,Toys,43.23
+05-04-2021 12.29.43 : You requested succhili $65.7
+05-04-2021 12.29.44 : CLIENT: Transaction>transaction#001,succhili,Potatos,65.7
+05-04-2021 12.34.56 : You paid 2 $12
+05-04-2021 12.34.57 : CLIENT: Transaction>transaction#001,2,21321312,12
+05-04-2021 12.38.03 : You paid a $a
+05-04-2021 12.38.04 : CLIENT: Transaction>transaction#001,a,a,a
+05-04-2021 12.39.43 : You paid 1 $1
+05-04-2021 12.39.44 : CLIENT: Transaction>transaction#001,1,1,1
+05-04-2021 12.40.49 : You paid rwer $werwe
+05-04-2021 12.40.51 : CLIENT: Transaction>transaction#001,rwer,werwe,werwe
+05-04-2021 12.41.04 : You paid 43 $2
+05-04-2021 12.41.05 : CLIENT: Transaction>transaction#001,43,4,2
+05-04-2021 12.55.48 : You paid Jose  $65.3
+05-04-2021 12.55.49 : CLIENT: Transaction>transaction#001,Jose ,Grocery Items,65.3
+05-04-2021 12.56.16 : You requested trent $54.2
+05-04-2021 12.56.17 : CLIENT: Transaction>transaction#001,trent,Toys,54.2
+05-04-2021 13.05.37 : You paid jklj $hk
+05-04-2021 13.05.38 : CLIENT: Transaction>transaction#001,jklj,kjlk,hk
+05-04-2021 13.09.07 : You paid sdfsd $fsdf
+05-04-2021 13.09.08 : CLIENT: Transaction>transaction#001,sdfsd,sdfs,fsdf
+05-04-2021 13.10.50 : You paid jose $65.87
+05-04-2021 13.10.51 : CLIENT: Transaction>transaction#001,jose,Grocery Items,65.87
+05-04-2021 13.11.17 : You requested tre $76.8
+05-04-2021 13.11.18 : CLIENT: Transaction>transaction#001,tre,movie tickets,76.8
+05-04-2021 14.17.34 : You paid fs $fsd
+05-04-2021 14.17.36 : CLIENT: Transaction>transaction#001,fs,dfs,fsd
+05-04-2021 14.17.42 : You requested rew $wer
+05-04-2021 14.17.43 : CLIENT: Transaction>transaction#001,rew,werw,wer
+05-04-2021 14.17.50 : You paid rwerw $4335
+05-04-2021 14.17.51 : CLIENT: Transaction>transaction#001,rwerw,435,4335
+05-04-2021 14.17.57 : You requested 765 $345
+05-04-2021 14.17.58 : CLIENT: Transaction>transaction#001,765,34534,345
+05-04-2021 14.18.09 : You paid sdas $sadas
+05-04-2021 14.18.10 : CLIENT: Transaction>transaction#001,sdas,das,sadas
+05-04-2021 16.25.47 : You paid 543 $435345
+05-04-2021 16.25.49 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 16.25.57 : You requested 543 $435345
+05-04-2021 16.25.59 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 16.26.01 : You paid 543 $435345
+05-04-2021 16.26.03 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 16.46.14 : You paid José Balseros $65.2
+05-04-2021 16.46.15 : CLIENT: Transaction>transaction#001,José Balseros,Grocery Items,65.2
+05-04-2021 16.46.33 : You requested Martin $54.23
+05-04-2021 16.46.34 : CLIENT: Transaction>transaction#001,Martin,Movie Tickets,54.23
+05-04-2021 16.55.27 : You paid fdsf $adsfadsf
+05-04-2021 16.55.29 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-04-2021 16.55.40 : You paid fdsf $adsfadsf
+05-04-2021 16.55.42 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-06-2021 15.08.14 : You paid fds $sdfsd
+05-06-2021 15.08.16 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-06-2021 15.08.17 : You requested fds $sdfsd
+05-06-2021 15.08.19 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 13.47.43 : You paid rwer $rw
+05-11-2021 13.47.45 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 13.47.46 : You requested rwer $rw
+05-11-2021 13.47.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 13.48.12 : You paid rwer $rw
+05-11-2021 13.48.14 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 13.48.26 : You paid rwertre543 $rw
+05-11-2021 13.48.28 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 13.48.41 : You paid rwertre543 $rw
+05-11-2021 13.48.43 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 13.48.46 : You paid rwertre543 $rw
+05-11-2021 13.48.48 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 13.48.52 : You paid rwertre543 $rw
+05-11-2021 13.48.54 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 13.48.58 : You paid rwertre543 $rw
+05-11-2021 13.49.00 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 15.35.20 : You requested fs $sfsadf
+05-13-2021 15.35.22 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 15.35.29 : You paid fs $sfsadf
+05-13-2021 15.35.31 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 15.36.32 : You paid José $sfsadf
+05-13-2021 15.36.34 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 15.58.00 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 15.58.21 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 15.58.33 : You paid fsdf $dsfsd
+05-13-2021 15.58.35 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 16.00.06 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 16.01.50 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 16.04.41 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 16.04.46 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 16.29.54 : You donated $5 to the Salvation Army 
+05-13-2021 16.29.57 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 16.47.19 : You donated $10 to the Salvation Army 
+05-13-2021 16.47.21 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 16.58.50 : You donated $10 to Goodwill
+05-13-2021 16.58.52 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 17.03.19 : You donated $15 to Goodwill
+05-13-2021 17.03.21 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 17.03.29 : You donated $15 to the Salvation Army 
+05-13-2021 17.03.31 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 17.05.18 : You donated $10 to Goodwill
+05-13-2021 17.05.20 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 17.06.42 : You donated $15 to the African Wildlife Foundation 
+05-13-2021 17.06.44 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 17.19.29 : You donated $15 to the Salvation Army 
+05-13-2021 17.19.31 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 17.19.40 : You paid Jose $daf
+05-13-2021 17.19.42 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 18.13.27 : You donated $10 to the African Wildlife Foundation 
+05-13-2021 18.13.29 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 18.13.33 : You donated $15 to Goodwill
+05-13-2021 18.13.36 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 18.13.39 : You donated $20 to the Salvation Army 
+05-13-2021 18.13.41 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-13-2021 18.15.39 : You paid 543 $534
+05-13-2021 18.15.41 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-14-2021 11.12.06 : You paid Jose $54.2
+05-14-2021 11.12.07 : CLIENT: Transaction>transaction#001,Jose,Grocery Items,54.2
+05-14-2021 11.17.40 : You paid jose $423.23
+05-14-2021 11.18.53 : You paid da $das
+05-14-2021 11.21.36 : You requested d $d
+05-14-2021 11.21.37 : CLIENT: Transaction>transaction#001,d,d,d
+05-14-2021 11.21.50 : You paid d $d
+05-14-2021 11.21.51 : CLIENT: Transaction>transaction#001,d,d,d
+05-14-2021 11.36.32 : You paid jose $423.23
+05-14-2021 11.36.34 : CLIENT: Transaction>transaction#001,jose,grocery,423.23
+05-14-2021 11.40.36 : You paid Jose $65.8
+05-14-2021 11.40.37 : CLIENT: Transaction>transaction#001,Jose,grocery items,65.8
+05-14-2021 11.41.04 : You requested mark $87.7
+05-14-2021 11.41.05 : CLIENT: Transaction>transaction#001,mark,movie tickets,87.7
+05-14-2021 11.41.21 : You donated $15 to the Salvation Army 
+05-14-2021 11.41.22 : CLIENT: Transaction>transaction#001,Salvation Army recieved$15
+05-14-2021 12.00.45 : You requested José $534.2
+05-14-2021 12.00.46 : CLIENT: Transaction>transaction#001,José,Grocery items,534.2
+05-14-2021 12.02.39 : You paid José $42.2
+05-14-2021 12.02.40 : CLIENT: Transaction>transaction#001,José,Grocery items,42.2
