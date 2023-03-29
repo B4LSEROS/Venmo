@@ -1,0 +1,46 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.parent{
+    -fx-background-color: #dce0e6;
+}
+
+.buttons{
+    -fx-font: 20px sans-serif;
+}
+
+.buttons:hover{
+    -fx-background-color: #3d95ce;
+    -fx-border-color: #3d95ce;
+    -fx-border-style: solid;
+    -fx-border-width: 0px 0px 0px 2px;
+}
+
+.exitButton{
+	-fx-background-color: #ff6961;
+	-fx-font: 20px sans-serif;
+}
+
+.exitButton:hover{
+	 -fx-background-color: #3d95ce;
+    -fx-border-color: #3d95ce;
+    -fx-border-style: solid;
+    -fx-border-width: 0px 0px 0px 2px;	
+}
+
+.clockText
+{
+	-fx-font: 14px sans-serif;
+	
+}
+
+.clockText:centered .text {
+    -fx-text-alignment: center ;
+}
+
+.venmoLogo {
+	-fx-background-color: #dce0e6;
+	-fx-padding: 5 5 5 30;
+}
+
+.serverPanel{
+	-fx-background-color: #dce0e6;
+}

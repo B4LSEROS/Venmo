@@ -1,0 +1,16 @@
+05-14-2021 11.21.36 : SERVER : Transaction>Transaction#0500000,1,You requested d $d
+05-14-2021 11.21.37 : SERVER : quit
+05-14-2021 11.21.50 : SERVER : Transaction>Transaction#0500000,1,You paid d $d
+05-14-2021 11.21.50 : SERVER : quit
+05-14-2021 11.36.33 : SERVER : Transaction>Transaction#0500000,1,You paid jose $423.23
+05-14-2021 11.36.33 : SERVER : quit
+05-14-2021 11.40.36 : SERVER : Transaction>Transaction#0500000,1,You paid Jose $65.8
+05-14-2021 11.40.36 : SERVER : quit
+05-14-2021 11.41.04 : SERVER : Transaction>Transaction#0500000,1,You requested mark $87.7
+05-14-2021 11.41.04 : SERVER : quit
+05-14-2021 11.41.21 : SERVER : Transaction>Transaction#0500000,1,You donated $15 to the Salvation Army 
+05-14-2021 11.41.21 : SERVER : quit
+05-14-2021 12.00.45 : SERVER : Transaction>Transaction#0500000,1,You requested José $534.2
+05-14-2021 12.00.46 : SERVER : quit
+05-14-2021 12.02.39 : SERVER : Transaction>Transaction#0500000,1,You paid José $42.2
+05-14-2021 12.02.40 : SERVER : quit
