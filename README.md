@@ -5,6 +5,7 @@ A payment app that mimics Venmo and features a user-friendly interface with secu
 
 
 <img src="https://i.imgur.com/d1K8Nti.jpeg" alt="alt text" width="300" height="200">
+<img src="https://imgur.com/LSg0Cx5.jpeg" alt="server-side screen" width="300" height="200">
 
 ## Full Description
 
